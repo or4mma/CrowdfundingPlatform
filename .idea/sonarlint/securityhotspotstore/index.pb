@@ -5,3 +5,5 @@ O
 contracts/campaign-manager.clar,6/1/61ec7cff6101760fca50414f1de745a2846d7d7a
 P
  contracts/milestone-tracker.clar,6/9/69fe99845795fcf666c73459679d4aaec80fbdcc
+Q
+!contracts/reward-distributor.clar,6/1/61a4be262fd2c4985b5e6a554bfd8aa8ff67f4c9
