@@ -11,3 +11,5 @@ N
 tests/campaign-manager.test.ts,1/5/156b74be5bb52a89693f16430ccf810b869286ba
 O
 tests/milestone-tracker.test.ts,6/1/6124687f79e93f3f7afdd30a94ce1c2df386b4f2
+P
+ tests/reward-distributor.test.ts,8/9/8919532d728aa714d7c8b1bdfea92b0a5e048bfc
